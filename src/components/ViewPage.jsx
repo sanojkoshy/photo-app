@@ -35014,7 +35014,7 @@ const ViewPage = () => {
                             {
                                 data.map(
                                     (value, index) => {
-                                        return      <div className="col col-12 col-sm-4 col-md-4 col-lg-4 col-xl-4 col-xxl-4">
+                                        return      <div className="col col-12 col-sm-3 col-md-3 col-lg-3 col-xl-3 col-xxl-3">
                                         <div class="card">
                                             <img src={value.thumbnailUrl} class="card-img-top" alt="..." />
                                             <div class="card-body">
